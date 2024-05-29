@@ -1,0 +1,22 @@
+    {
+ "站名":"土豪影视",
+ "主页url":"https://www.tuhao.tv/",
+ "简介":"+video-info-content vod_content\"&&</span>",
+ "导演":"导演：&&</div>",
+ "主演":"主演：&&</div>",
+ "影片状态":"video-info-item\">&&</div>",
+ "影片类型":"video-info-aux scroll-content\"&&立即播放",
+ "数组":"module-item-pic\">&&<div class=\"module-item\">",
+ "图片":"data-src=\"&&\"",
+ "标题":"title=\"&&\"",
+ "副标题":"module-item-text\">&&</div>",
+ "链接":"href=\"&&\"",
+ "线路数组":"data-dropdown-value=&&</div>[不包含:天空#闪电#无尽]",
+ "线路标题":"<span>&&</small>[替换:蓝光一线>>蓝光#超清高速>>超清#</span><small>>>共]+集",
+ "播放数组":"sort-item\"&&</div>",
+ "播放标题":"<span>&&</span>",
+ "播放列表":"<a&&</a>",
+ "分类url":"https://www.tuhao.tv/vsh/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;ak",
+ "分类":"电影$1#电视剧$2#综艺$3#动漫$4#纪录片$5#体育$56",
+  "筛选":"1"
+  }

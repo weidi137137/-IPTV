@@ -1,0 +1,39 @@
+ [
+  {
+    "name": "银河",
+    "list": [
+      {
+        "url": "https://gitee.com/whk714/yinhe/raw/master/josn/whk.jpeg",
+        "icon": "https://gitee.com/whk714/yinhe/raw/master/josn/whk.jpeg"
+      }]
+  },
+ {
+    "name": "电视仓",
+    "list": [
+      {
+        "name": "TV版，不适合手机",
+        "url": "https://gitcode.net/whk714/haike/-/raw/master/app/银河影仓_5.0.25版.apk",
+        "icon": "https://gitee.com/whk714/yinhe/raw/master/josn/icon.png",
+        "version": "影视仓5.0.25版"
+      },  
+      {
+        "name": "TV版，不适合手机,可独立安装，不覆盖另一版本",
+        "url": "https://gitcode.net/whk714/haike/-/raw/master/app/影视仓5.0.18大图标版.apk",
+        "icon": "https://gitee.com/whk714/yinhe/raw/master/josn/icon.png",
+        "version": "电视仓5.0.18方标共存版"
+      },
+      {
+        "name": "电视仓5.0.10内置版",
+        "url": "https://gitcode.net/whk714/haike/-/raw/master/app/银河电视仓_5.0.10.apk",
+        "icon": "https://gitee.com/whk714/yinhe/raw/master/josn/icon.png",
+        "version": "TV版（可手机兼用）"
+      },
+      {
+        "name": "银河直播3.3.0版",
+        "url": "https://gitcode.net/whk714/haike/-/raw/master/app/银河直播_3.3.0版r.apk",
+        "icon": "https://gitee.com/whk714/yinhe/raw/master/josn/icon.png",
+        "version": "银河直播TV版"
+       }
+    ]
+  }
+ ]
