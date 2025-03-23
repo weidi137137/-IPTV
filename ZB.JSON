@@ -1,0 +1,24 @@
+{
+   "urls" : [
+      {
+         "name" : "秋水视频专线",
+         "url" : "https://www.shqsy.com/tv/qstv"
+      },
+      {
+         "name" : "饭太硬线路",
+         "url" : "http://www.饭太硬.com/tv/"
+      },
+      {
+         "name" : "肥猫线路",
+         "url" : "http://ceshi.肥猫.com/PandaQ"
+      },
+      {
+         "name" : "小米线路",
+         "url" : "https://mpanso.me/DEMO.json"
+      },
+      {
+         "name" : "林中小屋线路",
+         "url" : "https://git.acwing.com/shhentu/lzxw/-/raw/main/Monster.json"
+      }
+   ]
+}
